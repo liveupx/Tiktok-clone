@@ -1,32 +1,28 @@
-# Tiktok-clone
-Get your own TikTok Clone
+# TikTok Clone - Social Media App
 
-TikTok Clone - Modern Short Video Sharing App
-TikTok Clone - Powered by Liveupx 🚀
+## 🚀 About This Project
+This is a feature-rich TikTok clone built to showcase the capabilities of Liveupx, a leading software development company. With a sleek design and engaging features, this app is perfect for businesses looking to tap into the short-video platform market.
 
-A feature-packed, scalable TikTok clone designed to deliver an engaging short-video experience. Built with cutting-edge technologies to empower creators and captivate audiences worldwide.
+### 🌟 Features
+- User authentication (Sign up/Login)
+- Upload and edit videos with filters and effects
+- Like, comment, and share videos
+- Personalized video feeds
+- Live streaming capabilities
+- Secure admin panel
 
-👉 Check Our Portfolio
+### 📸 Screenshots
+![Screenshot 1](screenshot1.png)  
+![Screenshot 2](screenshot2.png)
 
-🌟 Features
+### 🛠 Tech Stack
+- Frontend: React Native, Flutter
+- Backend: Node.js, Firebase
+- Database: MongoDB
+- Deployment: AWS, Docker
 
-🎵 Audio Selection: Add and edit tracks effortlessly.
-🎥 Video Editing: Filters, stickers, and video effects.
-📡 Live Streaming: Connect in real-time.
-🔒 Privacy Settings: Complete control over user data.
-🗨️ Chat Options: Individual & group messaging.
-🛠️ Tech Stack
+### 🌐 Portfolio
+Looking to build your own app like TikTok? Check out our portfolio: [Liveupx Portfolio](http://liveupx.com/portfolio/)
 
-Frontend: ReactJS / Flutter
-Backend: Node.js / Django
-Database: PostgreSQL / MongoDB
-Cloud: AWS / Firebase
-🌍 Why Choose Liveupx?
-
-✅ Proven Expertise: View Our Work
-✅ Customization: Tailor-made apps for your brand.
-✅ Scalable Solutions: Ready to handle millions of users.
-📄 Documentation & Demo
-
-Live Demo: Available upon request.
-Contact Us: Visit Liveupx or email help@liveupx.com.
+### 📧 Contact Us
+For inquiries, email us at: help@liveupx.com
